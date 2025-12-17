@@ -179,7 +179,14 @@ If you want to see what projects written in Rust, check this out instead
 
 - **Tweede golf**
     * [Github Page]([https://blog.lohr.dev/embedded-rust](https://github.com/tweedegolf/))
-            
+
+- **ElimKeys**
+    * [Elytra: Ultralight Wireless Split Keyboard for Any Setup - whose entire firmware is written in RMK](https://www.reddit.com/r/rust/comments/1pomzhb/shipping_embedded_rust_the_firmware_behind_a/)
+
+- **Parallel Systems**
+    * [Building Next Generation Rail Systems With Rust: Tom Praderio of Parallel](https://filtra.io/rust/interviews/parallel-nov-25)
+
+
 ### E-commerce
 
 - **Deliveroo**
